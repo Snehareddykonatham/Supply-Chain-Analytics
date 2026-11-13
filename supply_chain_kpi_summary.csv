@@ -1,0 +1,15 @@
+KPI,Value
+Total Orders,99441.0
+Valid Delivered Orders,96470.0
+Average Delivery Time (Days),12.56
+On-Time Delivery Rate (%),93.23
+Late Delivery Rate (%),6.77
+Average Delay for Late Orders (Days),10.62
+Total Order Items,112650.0
+Total Product Value (R$),13591643.7
+Total Freight Charges (R$),2251909.54
+Freight-to-Product Ratio (%),16.57
+Late Carrier Handoff Rate (%),5.98
+Weight-Freight Correlation,0.61
+Volume-Freight Correlation,0.587
+Price-Freight Correlation,0.414
